@@ -136,6 +136,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![output](./calcout.jpeg)
 
 ## Result:
 us we designed a web application for a standard calculator.
